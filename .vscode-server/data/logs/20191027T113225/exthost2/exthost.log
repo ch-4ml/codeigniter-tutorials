@@ -1,0 +1,40 @@
+[2019-10-28 16:42:10.007] [exthost] [info] extension host started
+[2019-10-28 16:42:10.796] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2019-10-28 16:42:10.797] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/extensions/php-language-features/dist/phpMain
+[2019-10-28 16:42:10.818] [exthost] [info] ExtensionService#_doActivateExtension felixfbecker.php-intellisense {"startup":false,"extensionId":{"value":"felixfbecker.php-intellisense","_lower":"felixfbecker.php-intellisense"},"activationEvent":"onLanguage:php"}
+[2019-10-28 16:42:10.818] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/four12/.vscode-server/extensions/felixfbecker.php-intellisense-2.3.13/out/extension
+[2019-10-28 16:42:10.865] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-10-28 16:42:10.866] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/extensions/debug-auto-launch/dist/extension
+[2019-10-28 16:42:10.870] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-10-28 16:42:10.870] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/extensions/emmet/dist/extension
+[2019-10-28 16:42:10.903] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-10-28 16:42:10.903] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/extensions/git/dist/main
+[2019-10-28 16:42:10.972] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-10-28 16:42:10.972] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/extensions/merge-conflict/dist/extension
+[2019-10-28 16:42:11.160] [exthost] [info] eager extensions activated
+[2019-10-28 17:08:49.086] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-10-28 17:08:49.089] [exthost] [error] Error: Illegal argument: character must be non-negative
+	at Object.t.illegalArgument (/home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/out/vs/server/remoteExtensionHostProcess.js:13:524)
+	at new p (/home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/out/vs/server/remoteExtensionHostProcess.js:361:76)
+	at new p (/home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/out/vs/server/remoteExtensionHostProcess.js:360:392)
+	at asPosition (/home/four12/.vscode-server/extensions/felixfbecker.php-intellisense-2.3.13/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+	at asRange (/home/four12/.vscode-server/extensions/felixfbecker.php-intellisense-2.3.13/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+	at asHover (/home/four12/.vscode-server/extensions/felixfbecker.php-intellisense-2.3.13/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-10-28 17:08:50.019] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-10-28 17:08:50.019] [exthost] [error] Error: Illegal argument: character must be non-negative
+	at Object.t.illegalArgument (/home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/out/vs/server/remoteExtensionHostProcess.js:13:524)
+	at new p (/home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/out/vs/server/remoteExtensionHostProcess.js:361:76)
+	at new p (/home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/out/vs/server/remoteExtensionHostProcess.js:360:392)
+	at asPosition (/home/four12/.vscode-server/extensions/felixfbecker.php-intellisense-2.3.13/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+	at asRange (/home/four12/.vscode-server/extensions/felixfbecker.php-intellisense-2.3.13/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+	at asHover (/home/four12/.vscode-server/extensions/felixfbecker.php-intellisense-2.3.13/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-10-28 17:08:50.865] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-10-28 17:08:50.865] [exthost] [error] Error: Illegal argument: character must be non-negative
+	at Object.t.illegalArgument (/home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/out/vs/server/remoteExtensionHostProcess.js:13:524)
+	at new p (/home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/out/vs/server/remoteExtensionHostProcess.js:361:76)
+	at new p (/home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/out/vs/server/remoteExtensionHostProcess.js:360:392)
+	at asPosition (/home/four12/.vscode-server/extensions/felixfbecker.php-intellisense-2.3.13/node_modules/vscode-languageclient/lib/protocolConverter.js:53:16)
+	at asRange (/home/four12/.vscode-server/extensions/felixfbecker.php-intellisense-2.3.13/node_modules/vscode-languageclient/lib/protocolConverter.js:59:31)
+	at asHover (/home/four12/.vscode-server/extensions/felixfbecker.php-intellisense-2.3.13/node_modules/vscode-languageclient/lib/protocolConverter.js:134:63)
+[2019-10-28 17:15:33.463] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"extensionId":{"value":"vscode.css-language-features","_lower":"vscode.css-language-features"},"activationEvent":"onLanguage:css"}
+[2019-10-28 17:15:33.463] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/extensions/css-language-features/client/dist/cssMain

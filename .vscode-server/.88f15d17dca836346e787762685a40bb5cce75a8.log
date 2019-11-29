@@ -1,0 +1,99 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+IP Address: 220.67.174.102
+Extension host agent listening on 37699
+
+
+[09:02:32] Extension host agent started.
+[09:02:32] [127.0.0.1][c504cd9b][ManagementConnection] New connection established.
+[09:02:32] [127.0.0.1][dbd11cdb][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[09:02:33] [127.0.0.1][dbd11cdb][ExtensionHostConnection] <31068> Launched Extension Host Process.
+[09:02:34] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[09:54:26] [127.0.0.1][7244279b][ManagementConnection] New connection established.
+[09:54:26] [127.0.0.1][aec2cc86][ExtensionHostConnection] New connection established.
+[09:54:26] [127.0.0.1][aec2cc86][ExtensionHostConnection] <361> Launched Extension Host Process.
+[09:54:27] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+{ Error: write EPIPE
+    at WriteWrap.afterWrite [as oncomplete] (net.js:788:14) errno: 'EPIPE', code: 'EPIPE', syscall: 'write' }
+Error: Unexpected SIGPIPE
+    at process.on (/home/four12/.vscode-server/bin/88f15d17dca836346e787762685a40bb5cce75a8/out/bootstrap.js:5:192)
+    at process.emit (events.js:182:13)
+Error: Unexpected SIGPIPE
+    at process.on (/home/four12/.vscode-server/bin/88f15d17dca836346e787762685a40bb5cce75a8/out/bootstrap.js:5:192)
+    at process.emit (events.js:182:13)
+[10:09:54] [127.0.0.1][c504cd9b][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[10:12:10] [127.0.0.1][c504cd9b][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[10:12:10] [127.0.0.1][530eeef5][ManagementConnection] New connection established.
+[10:12:10] [127.0.0.1][84543f14][ExtensionHostConnection] New connection established.
+[10:12:10] [127.0.0.1][84543f14][ExtensionHostConnection] <1423> Launched Extension Host Process.
+[10:12:11] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[10:17:10] [127.0.0.1][c504cd9b][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[10:17:11] [127.0.0.1][dbd11cdb][ExtensionHostConnection] <31068> Extension Host Process exited with code: 0, signal: null.
+{ Error: write EPIPE
+    at WriteWrap.afterWrite [as oncomplete] (net.js:788:14) errno: 'EPIPE', code: 'EPIPE', syscall: 'write' }
+Error: Unexpected SIGPIPE
+    at process.on (/home/four12/.vscode-server/bin/88f15d17dca836346e787762685a40bb5cce75a8/out/bootstrap.js:5:192)
+    at process.emit (events.js:182:13)
+Error: Unexpected SIGPIPE
+    at process.on (/home/four12/.vscode-server/bin/88f15d17dca836346e787762685a40bb5cce75a8/out/bootstrap.js:5:192)
+    at process.emit (events.js:182:13)
+[10:26:03] [127.0.0.1][7244279b][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[10:42:56] [127.0.0.1][84543f14][ExtensionHostConnection] <1423> Extension Host Process exited with code: 0, signal: null.
+{ Error: write EPIPE
+    at WriteWrap.afterWrite [as oncomplete] (net.js:788:14) errno: 'EPIPE', code: 'EPIPE', syscall: 'write' }
+Error: Unexpected SIGPIPE
+    at process.on (/home/four12/.vscode-server/bin/88f15d17dca836346e787762685a40bb5cce75a8/out/bootstrap.js:5:192)
+    at process.emit (events.js:182:13)
+Error: Unexpected SIGPIPE
+    at process.on (/home/four12/.vscode-server/bin/88f15d17dca836346e787762685a40bb5cce75a8/out/bootstrap.js:5:192)
+    at process.emit (events.js:182:13)
+[10:43:05] [127.0.0.1][530eeef5][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[10:43:06] [127.0.0.1][7244279b][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[10:43:06] [127.0.0.1][530eeef5][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[10:43:06] [127.0.0.1][b7d2f27c][ManagementConnection] New connection established.
+[10:43:06] [127.0.0.1][e8fbe6fb][ExtensionHostConnection] New connection established.
+[10:43:06] [127.0.0.1][e8fbe6fb][ExtensionHostConnection] <2130> Launched Extension Host Process.
+[10:43:07] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[10:48:06] [127.0.0.1][7244279b][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[10:48:06] [127.0.0.1][530eeef5][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[10:48:07] [127.0.0.1][aec2cc86][ExtensionHostConnection] <361> Extension Host Process exited with code: 0, signal: null.
+[14:26:24] [127.0.0.1][44e2b592][ManagementConnection] New connection established.
+[14:26:24] [127.0.0.1][9732d504][ExtensionHostConnection] New connection established.
+[14:26:24] [127.0.0.1][9732d504][ExtensionHostConnection] <7856> Launched Extension Host Process.
+[14:26:26] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+{ Error: write EPIPE
+    at WriteWrap.afterWrite [as oncomplete] (net.js:788:14) errno: 'EPIPE', code: 'EPIPE', syscall: 'write' }
+Error: Unexpected SIGPIPE
+    at process.on (/home/four12/.vscode-server/bin/88f15d17dca836346e787762685a40bb5cce75a8/out/bootstrap.js:5:192)
+    at process.emit (events.js:182:13)
+Error: Unexpected SIGPIPE
+    at process.on (/home/four12/.vscode-server/bin/88f15d17dca836346e787762685a40bb5cce75a8/out/bootstrap.js:5:192)
+    at process.emit (events.js:182:13)
+[14:41:43] [127.0.0.1][b7d2f27c][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[17:41:38] [127.0.0.1][e8fbe6fb][ExtensionHostConnection] <2130> Extension Host Process exited with code: 0, signal: null.
+[17:41:43] [127.0.0.1][b7d2f27c][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+{ Error: write EPIPE
+    at WriteWrap.afterWrite [as oncomplete] (net.js:788:14) errno: 'EPIPE', code: 'EPIPE', syscall: 'write' }
+Error: Unexpected SIGPIPE
+    at process.on (/home/four12/.vscode-server/bin/88f15d17dca836346e787762685a40bb5cce75a8/out/bootstrap.js:5:192)
+    at process.emit (events.js:182:13)
+Error: Unexpected SIGPIPE
+    at process.on (/home/four12/.vscode-server/bin/88f15d17dca836346e787762685a40bb5cce75a8/out/bootstrap.js:5:192)
+    at process.emit (events.js:182:13)
+[18:21:15] [127.0.0.1][44e2b592][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[21:21:10] [127.0.0.1][9732d504][ExtensionHostConnection] <7856> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[21:21:10] Last EH closed, waiting before shutting down
+[21:21:15] [127.0.0.1][44e2b592][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+Last EH closed, shutting down
+[21:26:10] Last EH closed, shutting down

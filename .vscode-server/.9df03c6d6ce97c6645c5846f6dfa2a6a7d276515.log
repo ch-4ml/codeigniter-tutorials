@@ -1,0 +1,33 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+IP Address: 220.67.174.102
+Extension host agent listening on 36941
+
+
+[21:42:05] Extension host agent started.
+[21:42:05] [127.0.0.1][26a57c4b][ManagementConnection] New connection established.
+[21:42:05] [127.0.0.1][6d33af43][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[21:42:06] [127.0.0.1][6d33af43][ExtensionHostConnection] <26653> Launched Extension Host Process.
+[21:42:07] Installing extension: ms-ceintl.vscode-language-pack-ko
+[21:42:07] Downloaded extension: ms-ceintl.vscode-language-pack-ko /tmp/fe06f7cf-b3de-4f42-82da-efcd5309e3c5
+[21:42:07] Extracted extension to /home/four12/.vscode-server/extensions/.ms-ceintl.vscode-language-pack-ko-1.39.3: ms-ceintl.vscode-language-pack-ko
+[21:42:07] Renamed to /home/four12/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ko-1.39.3
+[21:42:07] Installation completed. ms-ceintl.vscode-language-pack-ko
+[21:42:07] Extensions installed successfully: ms-ceintl.vscode-language-pack-ko
+[22:38:38] [127.0.0.1][6d33af43][ExtensionHostConnection] The client has reconnected.
+[22:39:05] [127.0.0.1][26a57c4b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[22:39:07] [127.0.0.1][6d33af43][ExtensionHostConnection] <26653> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[22:39:07] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[22:44:07] Last EH closed, shutting down

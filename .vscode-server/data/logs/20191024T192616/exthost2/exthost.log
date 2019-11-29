@@ -1,0 +1,26 @@
+[2019-10-24 19:26:57.564] [exthost] [info] extension host started
+[2019-10-24 19:26:57.706] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2019-10-24 19:26:57.707] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/extensions/debug-auto-launch/dist/extension
+[2019-10-24 19:26:57.713] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2019-10-24 19:26:57.713] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/extensions/emmet/dist/extension
+[2019-10-24 19:26:57.745] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2019-10-24 19:26:57.745] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/extensions/git/dist/main
+[2019-10-24 19:26:57.807] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2019-10-24 19:26:57.807] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/extensions/merge-conflict/dist/extension
+[2019-10-24 19:26:58.137] [exthost] [info] ExtensionService#_doActivateExtension felixfbecker.php-intellisense {"startup":true,"extensionId":{"value":"felixfbecker.php-intellisense","_lower":"felixfbecker.php-intellisense"},"activationEvent":"workspaceContains:**/*.php"}
+[2019-10-24 19:26:58.137] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/four12/.vscode-server/extensions/felixfbecker.php-intellisense-2.3.13/out/extension
+[2019-10-24 19:26:58.294] [exthost] [info] eager extensions activated
+[2019-10-24 19:27:16.821] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2019-10-24 19:27:16.821] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/extensions/php-language-features/dist/phpMain
+[2019-10-24 20:07:28.490] [exthost] [error] [felixfbecker.php-intellisense] provider FAILED
+[2019-10-24 20:07:28.493] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/out/vs/server/remoteExtensionHostProcess.js:371:528)
+	at new y (/home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/out/vs/server/remoteExtensionHostProcess.js:371:477)
+	at new y (/home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/out/vs/server/remoteExtensionHostProcess.js:360:392)
+	at asSymbolInformation (/home/four12/.vscode-server/extensions/felixfbecker.php-intellisense-2.3.13/node_modules/vscode-languageclient/lib/protocolConverter.js:347:22)
+	at values.map.information (/home/four12/.vscode-server/extensions/felixfbecker.php-intellisense-2.3.13/node_modules/vscode-languageclient/lib/protocolConverter.js:336:42)
+	at Array.map (<anonymous>)
+	at Object.asSymbolInformations (/home/four12/.vscode-server/extensions/felixfbecker.php-intellisense-2.3.13/node_modules/vscode-languageclient/lib/protocolConverter.js:336:23)
+	at client.sendRequest.then (/home/four12/.vscode-server/extensions/felixfbecker.php-intellisense-2.3.13/node_modules/vscode-languageclient/lib/client.js:1002:62)
+[2019-10-24 20:55:39.738] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2019-10-24 20:55:39.738] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/four12/.vscode-server/bin/6ab598523be7a800d7f3eb4d92d7ab9a66069390/extensions/html-language-features/client/dist/htmlMain

@@ -1,0 +1,19 @@
+[2019-11-22 13:45:45.622] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2019-11-22 13:45:45.622] [remoteagent] [info] Extension host agent started.
+[2019-11-22 13:45:45.653] [remoteagent] [info] Deleted from disk ms-ceintl.vscode-language-pack-ko /home/four12/.vscode-server/extensions/ms-ceintl.vscode-language-pack-ko-1.39.3
+[2019-11-22 13:45:45.993] [remoteagent] [info] [127.0.0.1][23b17b9a][ManagementConnection] New connection established.
+[2019-11-22 13:45:45.995] [remoteagent] [info] [127.0.0.1][14d13b5f][ExtensionHostConnection] New connection established.
+[2019-11-22 13:45:46.142] [remoteagent] [info] [127.0.0.1][14d13b5f][ExtensionHostConnection] <17945> Launched Extension Host Process.
+[2019-11-22 13:45:51.573] [remoteagent] [info] [127.0.0.1][23b17b9a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2019-11-22 16:45:52.591] [remoteagent] [info] [127.0.0.1][14d13b5f][ExtensionHostConnection] <17945> Extension Host Process exited with code: 0, signal: null.
+[2019-11-22 16:45:52.592] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2019-11-22 16:50:52.656] [remoteagent] [info] Last EH closed, shutting down

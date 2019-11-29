@@ -1,0 +1,34 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+IP Address: 220.67.174.102
+Extension host agent listening on 37569
+==> Received a management connection
+==> Received an extension host connection.
+==> Using UI language: ko
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+Got start params: { language: 'ko',
+  break: undefined,
+  port: undefined,
+  debugId: undefined }
+{ Error: write EPIPE
+    at WriteWrap.afterWrite [as oncomplete] (net.js:788:14) errno: 'EPIPE', code: 'EPIPE', syscall: 'write' }
+Error: Unexpected SIGPIPE
+    at process.on (/home/four12/.vscode-server/bin/b37e54c98e1a74ba89e03073e5a3761284e3ffb0/out/bootstrap.js:5:192)
+    at process.emit (events.js:182:13)
+Error: Unexpected SIGPIPE
+    at process.on (/home/four12/.vscode-server/bin/b37e54c98e1a74ba89e03073e5a3761284e3ffb0/out/bootstrap.js:5:192)
+    at process.emit (events.js:182:13)
+EXTHOST: PROCESS EXITED
+0
+null
+Last EH closed, waiting before shutting down
+Last EH closed, shutting down
